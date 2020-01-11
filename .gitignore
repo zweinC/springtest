@@ -1,0 +1,4 @@
+.vscode/*
+springtest/.settings/*
+springtest/target/*
+.factorypath
